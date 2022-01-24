@@ -1,6 +1,6 @@
 Make a micro:bit game controller with a potentiometer
 --------------------
-In this assignment you will connect a potentiometer to the micro:bit with alligator clips. You will then modify your egg catching game (or make a new game) to use the potentiometer as a game controller. Here's a program that reads input from a potentiometer and uses it to move where a pixel is displayed.
+In this assignment you will connect a potentiometer to the micro:bit with alligator clips. You will then modify your egg catching game (or make a new game or other program) to use the potentiometer as a  controller. Here's a program that reads input from a potentiometer and uses it to move where a pixel is displayed.
 ```python
 # Add your Python code here. E.g.
 from microbit import *
@@ -18,7 +18,7 @@ You will submit the code and a short video of your program running. You may find
   
 Extensions
 ----------
-You can create an entirley new game that uses a potentiometer
+You can create an entirley new program that uses a potentiometer as a controller, it is not necessary to create a game.
 
 Samples of Student Work
 ----------
