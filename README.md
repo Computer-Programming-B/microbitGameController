@@ -22,4 +22,4 @@ You can create an entirley new program that uses a potentiometer as a controller
 
 Samples of Student Work
 ----------
-*none yet!*
+[Peter](Peterpotent.gif)   
