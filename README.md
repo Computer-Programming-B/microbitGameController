@@ -22,6 +22,7 @@ You can create an entirley new program that uses a potentiometer as a controller
 
 Samples of Student Work
 ----------
+[Bella](BellaPot.gif)   
 [Peter](Peterpotent.gif)   
 [Charlene](CharlenePotentiometer.gif)   
 [Andrew](AndrewPotentiometer.gif)   
