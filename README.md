@@ -25,3 +25,4 @@ Samples of Student Work
 [Peter](Peterpotent.gif)   
 [Charlene](CharlenePotentiometer.gif)   
 [Andrew](AndrewPotentiometer.gif)   
+[Issac](IssacPot.GIF)   
