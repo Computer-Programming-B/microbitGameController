@@ -27,6 +27,7 @@ Samples of Student Work
 [Bella](BellaPot.gif)   
 [Peter](Peterpotent.gif)   
 [Charlene](CharlenePotentiometer.gif)   
+[Alex](AlexPot.gif)   
 [Andrew](AndrewPotentiometer.gif)   
 [Issac](IssacPot.GIF)   
 [Renzl](RenzlPot.gif)   
